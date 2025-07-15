@@ -22,7 +22,7 @@ def get_weather(city, api_key):
 def main():
     print("🌦️  Welcome to the Weather App")
     city = input("Enter city name: ")
-    api_key = "927ae48dcb3724f7e71ff4eb9c159a4f"  
+    api_key = "2d581e2ebb2e5ccefd3d0005a9173832"  
     result = get_weather(city, api_key)
     if result:
         print("\nWeather Details:")
