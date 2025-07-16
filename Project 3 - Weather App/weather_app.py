@@ -32,3 +32,4 @@ def main():
         print("❌ City not found or API error.")
 if __name__ == "__main__":
     main()
+
