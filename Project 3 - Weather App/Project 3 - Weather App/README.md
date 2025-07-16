@@ -8,7 +8,7 @@ A simple command-line weather app in Python using OpenWeatherMap API.
 - Displays:
   - Temperature
   - Humidity
-  - Wind speed
+  - Wind speed 
   - Weather description
 - Uses live API data
 
